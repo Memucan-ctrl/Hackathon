@@ -1,0 +1,74 @@
+{
+  "username": "student-dev",
+  "displayName": "Kofi Adomako",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/student-dev",
+  "profileUrl": "https://github.com/student-dev",
+  "totalCommits": 847,
+  "currentStreak": 12,
+  "longestStreak": 31,
+  "contributionsThisYear": 423,
+  "contributionCalendar": {
+    "weeks": [
+      { "weekStart": "2026-06-01", "days": [0, 3, 5, 0, 7, 2, 1] },
+      { "weekStart": "2026-05-25", "days": [4, 6, 0, 2, 8, 3, 0] },
+      { "weekStart": "2026-05-18", "days": [1, 0, 0, 5, 0, 12, 4] },
+      { "weekStart": "2026-05-11", "days": [3, 2, 6, 1, 0, 0, 0] },
+      { "weekStart": "2026-05-04", "days": [0, 0, 4, 7, 2, 5, 3] },
+      { "weekStart": "2026-04-27", "days": [2, 1, 0, 0, 3, 6, 0] },
+      { "weekStart": "2026-04-20", "days": [5, 0, 0, 2, 1, 0, 4] }
+    ],
+    "colorScale": ["bg-gray-700", "bg-emerald-900", "bg-emerald-700", "bg-emerald-500", "bg-emerald-400"]
+  },
+  "recentCommits": [
+    {
+      "id": "commit-001",
+      "repo": "SomaSync/web-app",
+      "message": "feat: add course block drag reorder",
+      "branch": "main",
+      "timestamp": "2026-06-05T09:14:00",
+      "additions": 127,
+      "deletions": 34
+    },
+    {
+      "id": "commit-002",
+      "repo": "SomaSync/web-app",
+      "message": "fix: calendar overlap detection",
+      "branch": "fix/calendar-overlap",
+      "timestamp": "2026-06-04T22:30:00",
+      "additions": 45,
+      "deletions": 12
+    },
+    {
+      "id": "commit-003",
+      "repo": "SomaSync/ai-tutor",
+      "message": "feat: RAG context window chunking",
+      "branch": "main",
+      "timestamp": "2026-06-04T16:45:00",
+      "additions": 230,
+      "deletions": 89
+    },
+    {
+      "id": "commit-004",
+      "repo": "SomaSync/web-app",
+      "message": "refactor: extract github widget component",
+      "branch": "main",
+      "timestamp": "2026-06-03T14:20:00",
+      "additions": 56,
+      "deletions": 210
+    },
+    {
+      "id": "commit-005",
+      "repo": "data-structures",
+      "message": "solve: AVL tree rotation edge case",
+      "branch": "main",
+      "timestamp": "2026-06-02T11:05:00",
+      "additions": 34,
+      "deletions": 8
+    }
+  ],
+  "topRepos": [
+    { "name": "SomaSync/web-app", "language": "TypeScript", "stars": 4, "forks": 2 },
+    { "name": "SomaSync/ai-tutor", "language": "Python", "stars": 7, "forks": 1 },
+    { "name": "data-structures", "language": "C++", "stars": 12, "forks": 5 }
+  ]
+}
